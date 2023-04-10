@@ -25,6 +25,8 @@ import {
     threejs,
 } from "../assets";
 
+
+
 export const navLinks = [
     {
         id: "about",
@@ -46,16 +48,12 @@ const services = [
         icon: web,
     },
     {
-        title: "React Native Developer",
-        icon: mobile,
+        title: "React Developer",
+        icon: reactjs,
     },
     {
-        title: "Backend Developer",
+        title: "Problem Solver",
         icon: backend,
-    },
-    {
-        title: "Content Creator",
-        icon: creator,
     },
 ];
 
