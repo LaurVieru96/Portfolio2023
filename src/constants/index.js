@@ -214,27 +214,27 @@ const testimonials = [
     {
         testimonial:
             "Cat timp am colaborat cu Laurentiu la curs mi-a aratat ca are un potential mare in partea de front end developer. Are ambitie si nu ii este frica sa invete lucruri noi. Totally recommend him!",
-        name: "Dumitrache George",
+        name: "George",
         designation: "Trainer",
         company: "SDA",
         image: trainer,
     },
-    // {
-    //     testimonial:
-    //         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores perspiciatis ut nam ad commodi mollitia.",
-    //     name: "Chris Brown",
-    //     designation: "COO",
-    //     company: "DEF Corp",
-    //     image: "https://randomuser.me/api/portraits/men/5.jpg",
-    // },
-    // {
-    //     testimonial:
-    //         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores perspiciatis ut nam ad commodi mollitia.",
-    //     name: "Lisa Wang",
-    //     designation: "CTO",
-    //     company: "456 Enterprises",
-    //     image: "https://randomuser.me/api/portraits/women/6.jpg",
-    // },
+    {
+        testimonial:
+            "Laurentiu a fost un student excelent la cursul de JavaScript! A fost dedicat, a înțeles conceptele cheie rapid și a făcut progrese remarcabile. A fost o adevărată plăcere să îl am ca elev și îi doresc mult succes în continuare!",
+        name: "Sorin",
+        designation: "Trainer",
+        company: "SDA",
+        image: "https://ca.slack-edge.com/T03JHUM1VAT-U03NQRLRQ49-f95f478fcc3d-512",
+    },
+    {
+        testimonial:
+            "Îmi face plăcere să spun că Laurentiu a fost un elev foarte bun la cursul de ReactJS. A avut o atitudine pozitivă și a demonstrat o înțelegere profundă a frameworkului. A fost un adevărat standout și îi urez numai bine în viitorul său de programator!",
+        name: "Razvan",
+        designation: "Trainer",
+        company: "SDA",
+        image: "https://ca.slack-edge.com/T03JHUM1VAT-U04DJJN9L2K-a37937b9abee-72",
+    },
 ];
 
 const projects = [
