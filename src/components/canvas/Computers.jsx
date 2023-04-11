@@ -68,6 +68,3 @@ const ComputersCanvas = () => {
 };
 
 export default ComputersCanvas;
-
-// 56:48 / 2:53:18
-// https://www.youtube.com/watch?v=0fYi8SGA20k
