@@ -5,6 +5,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import play from "./play.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -40,7 +41,25 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import cocktailSite from "./cocktail-site.png";
+import weather from "./weather.png";
+import game from "./game-interface-site.png";
+import pizza from "./pizza-site.png";
+import cv from "./cv-site.png";
+import showcase from "./showcase-site.png";
+import simplex from "./final-project.png";
+import presentationSite from "./presentationSite.png"
+
 export {
+  presentationSite,
+  play,
+  cocktailSite,
+  weather,
+  game,
+  pizza,
+  cv,
+  showcase,
+  simplex,
   sass,
   logo2,
   logo,

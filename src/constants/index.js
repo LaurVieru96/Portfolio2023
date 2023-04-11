@@ -30,7 +30,15 @@ import {
     tripguide,
     threejs,
     photoshop,
-    sass
+    sass,
+    cocktailSite,
+    weather,
+    game,
+    pizza,
+    cv,
+    showcase,
+    simplex,
+    presentationSite,
 } from "../assets";
 
 
@@ -200,60 +208,6 @@ const experiences = [
         ],
     },
 ];
-// const experiences = [
-//     {
-//         title: "React.js Developer",
-//         company_name: "Starbucks",
-//         icon: starbucks,
-//         iconBg: "#E6DEDD",
-//         date: "March 2020 - April 2021",
-//         points: [
-//             "Developing and maintaining web applications using React.js and other related technologies.",
-//             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-//             "Implementing responsive design and ensuring cross-browser compatibility.",
-//             "Participating in code reviews and providing constructive feedback to other developers.",
-//         ],
-//     },
-//     {
-//         title: "React Native Developer",
-//         company_name: "Tesla",
-//         icon: tesla,
-//         iconBg: "#E6DEDD",
-//         date: "Jan 2021 - Feb 2022",
-//         points: [
-//             "Developing and maintaining web applications using React.js and other related technologies.",
-//             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-//             "Implementing responsive design and ensuring cross-browser compatibility.",
-//             "Participating in code reviews and providing constructive feedback to other developers.",
-//         ],
-//     },
-//     {
-//         title: "Web Developer",
-//         company_name: "Shopify",
-//         icon: shopify,
-//         iconBg: "#383E56",
-//         date: "Jan 2022 - Jan 2023",
-//         points: [
-//             "Developing and maintaining web applications using React.js and other related technologies.",
-//             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-//             "Implementing responsive design and ensuring cross-browser compatibility.",
-//             "Participating in code reviews and providing constructive feedback to other developers.",
-//         ],
-//     },
-//     {
-//         title: "Full stack Developer",
-//         company_name: "Meta",
-//         icon: meta,
-//         iconBg: "#E6DEDD",
-//         date: "Jan 2023 - Present",
-//         points: [
-//             "Developing and maintaining web applications using React.js and other related technologies.",
-//             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-//             "Implementing responsive design and ensuring cross-browser compatibility.",
-//             "Participating in code reviews and providing constructive feedback to other developers.",
-//         ],
-//     },
-// ];
 
 const testimonials = [
     {
@@ -284,67 +238,187 @@ const testimonials = [
 
 const projects = [
     {
-        name: "Car Rent",
+        name: "Simplex Games Store",
         description:
-            "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+            "An online platform that allows you to buy games directly from your web browser.",
         tags: [
             {
                 name: "react",
                 color: "blue-text-gradient",
             },
             {
-                name: "mongodb",
+                name: "api",
                 color: "green-text-gradient",
             },
             {
-                name: "tailwind",
+                name: "bootstrap5",
+                color: "green-text-gradient",
+            },
+            {
+                name: "react-redux",
                 color: "pink-text-gradient",
             },
         ],
-        image: carrent,
-        source_code_link: "https://github.com/",
+        image: simplex,
+        source_code_link: "https://github.com/LaurVieru96/game-store-final-project",
+        source_code_demo: "https://simplexgaming.netlify.app/"
+
     },
     {
-        name: "Job IT",
+        name: "Presentation Site",
         description:
-            "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+            "An online platform that allows you to buy games directly from your web browser.",
         tags: [
             {
-                name: "react",
+                name: "html",
                 color: "blue-text-gradient",
-            },
-            {
-                name: "restapi",
-                color: "green-text-gradient",
-            },
-            {
-                name: "scss",
-                color: "pink-text-gradient",
-            },
-        ],
-        image: jobit,
-        source_code_link: "https://github.com/",
-    },
-    {
-        name: "Trip Guide",
-        description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-        tags: [
-            {
-                name: "nextjs",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "supabase",
-                color: "green-text-gradient",
             },
             {
                 name: "css",
+                color: "green-text-gradient",
+            },
+            {
+                name: "js",
                 color: "pink-text-gradient",
             },
         ],
-        image: tripguide,
-        source_code_link: "https://github.com/",
+        image: presentationSite,
+        source_code_link: "https://github.com/LaurVieru96/presentation-site",
+        source_code_demo: "https://laurvieru.netlify.app/#home"
+
+    },
+    {
+        name: "Showcase App",
+        description:
+            "A small web application that lets manage the list of showcased works",
+        tags: [
+            {
+                name: "react",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "css",
+                color: "green-text-gradient",
+            },
+            {
+                name: "react-redux",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: showcase,
+        source_code_link: "https://github.com/LaurVieru96/showcase",
+        source_code_demo: "https://showcase-app-project.netlify.app/"
+
+    },
+    {
+        name: "Resume",
+        description:
+            "A short resume builded only with HTML and CSS.",
+        tags: [
+            {
+                name: "html",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "css",
+                color: "green-text-gradient",
+            },
+        ],
+        image: cv,
+        source_code_link: "https://github.com/LaurVieru96/Portfolio",
+        source_code_demo: "https://vieru-laurentiu-review.netlify.app/"
+
+    },
+    {
+        name: "Taverneta Truck",
+        description:
+            "A web application builded during classes at Software Development Academy.",
+        tags: [
+            {
+                name: "html",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "css",
+                color: "green-text-gradient",
+            },
+            {
+                name: "js",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: pizza,
+        source_code_link: "https://github.com/LaurVieru96/PizzaAppSite-atClassWithColleagues",
+        source_code_demo: "https://pizza-rest-truck.netlify.app/"
+
+    },
+    {
+        name: "Heroes Game",
+        description:
+            "App build during class when I learned OOP principles.",
+        tags: [
+            {
+                name: "html",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "scss",
+                color: "green-text-gradient",
+            },
+            {
+                name: "js",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: game,
+        source_code_link: "https://github.com/LaurVieru96/The-heroes-game",
+        source_code_demo: "https://heroes-game-online.netlify.app/"
+
+    },
+    {
+        name: "Weather App",
+        description:
+            "Weather App with public weather API",
+        tags: [
+            {
+                name: "html",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "css",
+                color: "green-text-gradient",
+            },
+            {
+                name: "js",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: weather,
+        source_code_link: "https://github.com/LaurVieru96/weather-App-with-API",
+        source_code_demo: "https://weather-app-online-api.netlify.app/"
+
+    },
+    {
+        name: "Cocktails Brew App",
+        description:
+            "Add custom recipes for your home brews below.",
+        tags: [
+            {
+                name: "html",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "css",
+                color: "green-text-gradient",
+            },
+            {
+                name: "js",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: cocktailSite,
+        source_code_link: "https://github.com/LaurVieru96/cocktailRecipeApp",
+        source_code_demo: "https://cocktail-recipe-online.netlify.app/"
     },
 ];
 
