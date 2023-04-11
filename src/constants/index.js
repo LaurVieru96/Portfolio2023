@@ -39,6 +39,7 @@ import {
     showcase,
     simplex,
     presentationSite,
+    trainer
 } from "../assets";
 
 
@@ -212,11 +213,11 @@ const experiences = [
 const testimonials = [
     {
         testimonial:
-            "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-        name: "Sara Lee",
-        designation: "CFO",
-        company: "Acme Co",
-        image: "https://randomuser.me/api/portraits/women/4.jpg",
+            "Cat timp am colaborat cu Laurentiu la curs mi-a aratat ca are un potential mare in partea de front end developer. Are ambitie si nu ii este frica sa invete lucruri noi. Totally recommend him!",
+        name: "Dumitrache George",
+        designation: "Trainer",
+        company: "SDA",
+        image: trainer,
     },
     {
         testimonial:

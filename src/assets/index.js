@@ -50,8 +50,11 @@ import showcase from "./showcase-site.png";
 import simplex from "./final-project.png";
 import presentationSite from "./presentationSite.png"
 
+import trainer from "./testimonials/trainer.jpg"
+
 export {
   presentationSite,
+  trainer,
   play,
   cocktailSite,
   weather,
