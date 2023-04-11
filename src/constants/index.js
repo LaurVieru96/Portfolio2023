@@ -219,22 +219,22 @@ const testimonials = [
         company: "SDA",
         image: trainer,
     },
-    {
-        testimonial:
-            "I've never met a web developer who truly cares about their clients' success like Rick does.",
-        name: "Chris Brown",
-        designation: "COO",
-        company: "DEF Corp",
-        image: "https://randomuser.me/api/portraits/men/5.jpg",
-    },
-    {
-        testimonial:
-            "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-        name: "Lisa Wang",
-        designation: "CTO",
-        company: "456 Enterprises",
-        image: "https://randomuser.me/api/portraits/women/6.jpg",
-    },
+    // {
+    //     testimonial:
+    //         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores perspiciatis ut nam ad commodi mollitia.",
+    //     name: "Chris Brown",
+    //     designation: "COO",
+    //     company: "DEF Corp",
+    //     image: "https://randomuser.me/api/portraits/men/5.jpg",
+    // },
+    // {
+    //     testimonial:
+    //         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores perspiciatis ut nam ad commodi mollitia.",
+    //     name: "Lisa Wang",
+    //     designation: "CTO",
+    //     company: "456 Enterprises",
+    //     image: "https://randomuser.me/api/portraits/women/6.jpg",
+    // },
 ];
 
 const projects = [
