@@ -376,51 +376,51 @@ const projects = [
         source_code_demo: "https://heroes-game-online.netlify.app/"
 
     },
-    {
-        name: "Weather App",
-        description:
-            "Weather App with public weather API",
-        tags: [
-            {
-                name: "html",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "css",
-                color: "green-text-gradient",
-            },
-            {
-                name: "js",
-                color: "pink-text-gradient",
-            },
-        ],
-        image: weather,
-        source_code_link: "https://github.com/LaurVieru96/weather-App-with-API",
-        source_code_demo: "https://weather-app-online-api.netlify.app/"
+    // {
+    //     name: "Weather App",
+    //     description:
+    //         "Weather App with public weather API",
+    //     tags: [
+    //         {
+    //             name: "html",
+    //             color: "blue-text-gradient",
+    //         },
+    //         {
+    //             name: "css",
+    //             color: "green-text-gradient",
+    //         },
+    //         {
+    //             name: "js",
+    //             color: "pink-text-gradient",
+    //         },
+    //     ],
+    //     image: weather,
+    //     source_code_link: "https://github.com/LaurVieru96/weather-App-with-API",
+    //     source_code_demo: "https://weather-app-online-api.netlify.app/"
 
-    },
-    {
-        name: "Cocktails Brew App",
-        description:
-            "Add custom recipes for your home brews below.",
-        tags: [
-            {
-                name: "html",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "css",
-                color: "green-text-gradient",
-            },
-            {
-                name: "js",
-                color: "pink-text-gradient",
-            },
-        ],
-        image: cocktailSite,
-        source_code_link: "https://github.com/LaurVieru96/cocktailRecipeApp",
-        source_code_demo: "https://cocktail-recipe-online.netlify.app/"
-    },
+    // },
+    // {
+    //     name: "Cocktails Brew App",
+    //     description:
+    //         "Add custom recipes for your home brews below.",
+    //     tags: [
+    //         {
+    //             name: "html",
+    //             color: "blue-text-gradient",
+    //         },
+    //         {
+    //             name: "css",
+    //             color: "green-text-gradient",
+    //         },
+    //         {
+    //             name: "js",
+    //             color: "pink-text-gradient",
+    //         },
+    //     ],
+    //     image: cocktailSite,
+    //     source_code_link: "https://github.com/LaurVieru96/cocktailRecipeApp",
+    //     source_code_demo: "https://cocktail-recipe-online.netlify.app/"
+    // },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
