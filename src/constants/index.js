@@ -227,14 +227,14 @@ const testimonials = [
         company: "SDA",
         image: "https://ca.slack-edge.com/T03JHUM1VAT-U03NQRLRQ49-f95f478fcc3d-512",
     },
-    {
-        testimonial:
-            "Îmi face plăcere să spun că Laurentiu a fost un elev foarte bun la cursul de ReactJS. A avut o atitudine pozitivă și a demonstrat o înțelegere profundă a frameworkului. A fost un adevărat standout și îi urez numai bine în viitorul său de programator!",
-        name: "Razvan",
-        designation: "Trainer",
-        company: "SDA",
-        image: "https://ca.slack-edge.com/T03JHUM1VAT-U04DJJN9L2K-a37937b9abee-72",
-    },
+    // {
+    //     testimonial:
+    //         "Îmi face plăcere să spun că Laurentiu a fost un elev foarte bun la cursul de ReactJS. A avut o atitudine pozitivă și a demonstrat o înțelegere profundă a frameworkului. A fost un adevărat standout și îi urez numai bine în viitorul său de programator!",
+    //     name: "Razvan",
+    //     designation: "Trainer",
+    //     company: "SDA",
+    //     image: "https://ca.slack-edge.com/T03JHUM1VAT-U04DJJN9L2K-a37937b9abee-72",
+    // },
 ];
 
 const projects = [
