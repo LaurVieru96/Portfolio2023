@@ -218,6 +218,7 @@ const testimonials = [
         designation: "Trainer",
         company: "SDA",
         image: trainer,
+        linkedin: "https://www.linkedin.com/in/george-dumitrache-1021b120b/"
     },
     {
         testimonial:
@@ -226,6 +227,7 @@ const testimonials = [
         designation: "Trainer",
         company: "SDA",
         image: "https://ca.slack-edge.com/T03JHUM1VAT-U03NQRLRQ49-f95f478fcc3d-512",
+        linkedin: "https://www.linkedin.com/in/sorincozma5/"
     },
     // {
     //     testimonial:
