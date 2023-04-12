@@ -311,71 +311,71 @@ const projects = [
         source_code_demo: "https://showcase-app-project.netlify.app/"
 
     },
-    {
-        name: "Resume",
-        description:
-            "A short resume builded only with HTML and CSS.",
-        tags: [
-            {
-                name: "html",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "css",
-                color: "green-text-gradient",
-            },
-        ],
-        image: cv,
-        source_code_link: "https://github.com/LaurVieru96/Portfolio",
-        source_code_demo: "https://vieru-laurentiu-review.netlify.app/"
+    // {
+    //     name: "Resume",
+    //     description:
+    //         "A short resume builded only with HTML and CSS.",
+    //     tags: [
+    //         {
+    //             name: "html",
+    //             color: "blue-text-gradient",
+    //         },
+    //         {
+    //             name: "css",
+    //             color: "green-text-gradient",
+    //         },
+    //     ],
+    //     image: cv,
+    //     source_code_link: "https://github.com/LaurVieru96/Portfolio",
+    //     source_code_demo: "https://vieru-laurentiu-review.netlify.app/"
 
-    },
-    {
-        name: "Taverneta Truck",
-        description:
-            "A web application builded during classes at Software Development Academy.",
-        tags: [
-            {
-                name: "html",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "css",
-                color: "green-text-gradient",
-            },
-            {
-                name: "js",
-                color: "pink-text-gradient",
-            },
-        ],
-        image: pizza,
-        source_code_link: "https://github.com/LaurVieru96/PizzaAppSite-atClassWithColleagues",
-        source_code_demo: "https://pizza-rest-truck.netlify.app/"
+    // },
+    // {
+    //     name: "Taverneta Truck",
+    //     description:
+    //         "A web application builded during classes at Software Development Academy.",
+    //     tags: [
+    //         {
+    //             name: "html",
+    //             color: "blue-text-gradient",
+    //         },
+    //         {
+    //             name: "css",
+    //             color: "green-text-gradient",
+    //         },
+    //         {
+    //             name: "js",
+    //             color: "pink-text-gradient",
+    //         },
+    //     ],
+    //     image: pizza,
+    //     source_code_link: "https://github.com/LaurVieru96/PizzaAppSite-atClassWithColleagues",
+    //     source_code_demo: "https://pizza-rest-truck.netlify.app/"
 
-    },
-    {
-        name: "Heroes Game",
-        description:
-            "App build during class when I learned OOP principles.",
-        tags: [
-            {
-                name: "html",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "scss",
-                color: "green-text-gradient",
-            },
-            {
-                name: "js",
-                color: "pink-text-gradient",
-            },
-        ],
-        image: game,
-        source_code_link: "https://github.com/LaurVieru96/The-heroes-game",
-        source_code_demo: "https://heroes-game-online.netlify.app/"
+    // },
+    // {
+    //     name: "Heroes Game",
+    //     description:
+    //         "App build during class when I learned OOP principles.",
+    //     tags: [
+    //         {
+    //             name: "html",
+    //             color: "blue-text-gradient",
+    //         },
+    //         {
+    //             name: "scss",
+    //             color: "green-text-gradient",
+    //         },
+    //         {
+    //             name: "js",
+    //             color: "pink-text-gradient",
+    //         },
+    //     ],
+    //     image: game,
+    //     source_code_link: "https://github.com/LaurVieru96/The-heroes-game",
+    //     source_code_demo: "https://heroes-game-online.netlify.app/"
 
-    },
+    // },
     // {
     //     name: "Weather App",
     //     description:
