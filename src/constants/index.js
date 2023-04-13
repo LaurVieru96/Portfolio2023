@@ -231,12 +231,25 @@ const testimonials = [
     },
     // {
     //     testimonial:
-    //         "Îmi face plăcere să spun că Laurentiu a fost un elev foarte bun la cursul de ReactJS. A avut o atitudine pozitivă și a demonstrat o înțelegere profundă a frameworkului. A fost un adevărat standout și îi urez numai bine în viitorul său de programator!",
+    //         "Laurentiu a fost de departe cel mai dedicat student si am devenit chiar prieteni.
+    //         S- a dedicat intru totul cursului, si - a luat timp liber de la munca si a tras cat de tare a putut.
+    //         Oricand avea ocazia mai punea cate o intrebare fie ea in timpul cursului sau nu.
+    //         Ii place tare mult 'sa se complice' zic eu dar ii plac provocarile si sa dezvolte mereu lucruri in plus din care invata ceva.
+    //         Cred ca de departe este unul dintre cei mai buni sudenti cu, care am avut placerea : D",
     //     name: "Razvan",
-    //     designation: "Trainer",
-    //     company: "SDA",
-    //     image: "https://ca.slack-edge.com/T03JHUM1VAT-U04DJJN9L2K-a37937b9abee-72",
+    // designation: "Trainer",
+    // company: "SDA",
+    // image: "https://ca.slack-edge.com/T03JHUM1VAT-U04DJJN9L2K-a37937b9abee-72",
     // },
+    {
+        testimonial:
+            "Laurentiu a fost de departe cel mai dedicat student si am devenit chiar prieteni.\r\n            S-a dedicat intru totul cursului, si-a luat timp liber de la munca si a tras cat de tare a putut.\r\n            Oricand avea ocazia mai punea cate o intrebare fie ea in timpul cursului sau nu.\r\n            Ii place tare mult 'sa se complice' zic eu dar ii plac provocarile si sa dezvolte mereu lucruri in plus din care invata ceva.\r\n            Cred ca de departe este unul dintre cei mai buni sudenti cu, care am avut placerea :D",
+        name: "Razvan",
+        designation: "Trainer",
+        company: "SDA",
+        image: "https://ca.slack-edge.com/T03JHUM1VAT-U04DJJN9L2K-a37937b9abee-72",
+        linkedin: "https://www.linkedin.com/in/r%C4%83zvan-todic%C4%83-ab3891139/"
+    }
 ];
 
 const projects = [
