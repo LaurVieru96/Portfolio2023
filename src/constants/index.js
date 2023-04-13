@@ -222,25 +222,13 @@ const testimonials = [
     },
     {
         testimonial:
-            "Laurentiu a fost un student excelent la cursul de JavaScript! A fost dedicat, a înțeles conceptele cheie rapid și a făcut progrese remarcabile. A fost o adevărată plăcere să îl am ca elev și îi doresc mult succes în continuare!",
+            "Laurentiu a fost un student excelent la cursul de JavaScript si ReactJS! A fost dedicat, a înțeles conceptele cheie rapid și a făcut progrese remarcabile. A avut o atitudine pozitivă și a demonstrat o înțelegere profundă a frameworkului. A fost o adevărată plăcere să îl am ca elev și îi doresc mult succes în continuare!",
         name: "Sorin",
         designation: "Trainer",
         company: "SDA",
         image: "https://ca.slack-edge.com/T03JHUM1VAT-U03NQRLRQ49-f95f478fcc3d-512",
         linkedin: "https://www.linkedin.com/in/sorincozma5/"
     },
-    // {
-    //     testimonial:
-    //         "Laurentiu a fost de departe cel mai dedicat student si am devenit chiar prieteni.
-    //         S- a dedicat intru totul cursului, si - a luat timp liber de la munca si a tras cat de tare a putut.
-    //         Oricand avea ocazia mai punea cate o intrebare fie ea in timpul cursului sau nu.
-    //         Ii place tare mult 'sa se complice' zic eu dar ii plac provocarile si sa dezvolte mereu lucruri in plus din care invata ceva.
-    //         Cred ca de departe este unul dintre cei mai buni sudenti cu, care am avut placerea : D",
-    //     name: "Razvan",
-    // designation: "Trainer",
-    // company: "SDA",
-    // image: "https://ca.slack-edge.com/T03JHUM1VAT-U04DJJN9L2K-a37937b9abee-72",
-    // },
     {
         testimonial:
             "Laurentiu a fost de departe cel mai dedicat student si am devenit chiar prieteni.\r\n            S-a dedicat intru totul cursului, si-a luat timp liber de la munca si a tras cat de tare a putut.\r\n            Oricand avea ocazia mai punea cate o intrebare fie ea in timpul cursului sau nu.\r\n            Ii place tare mult 'sa se complice' zic eu dar ii plac provocarile si sa dezvolte mereu lucruri in plus din care invata ceva.\r\n            Cred ca de departe este unul dintre cei mai buni sudenti cu, care am avut placerea :D",
