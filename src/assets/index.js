@@ -36,6 +36,7 @@ import cocktail from "./company/cocktail.png";
 import estate from "./company/estate.png";
 import lorry from "./company/lorry.png";
 import uber from "./company/uber.png";
+import programmer from "./company/programmer.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -99,5 +100,6 @@ export {
   estate,
   lorry,
   uber,
+  programmer,
   photoshop
 };

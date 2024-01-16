@@ -39,7 +39,8 @@ import {
     showcase,
     simplex,
     presentationSite,
-    trainer
+    trainer,
+    programmer
 } from "../assets";
 
 
@@ -207,6 +208,24 @@ const experiences = [
             "Reporting any accidents or delays",
             "Maintaining a good relationship with customers",
         ],
+    },
+    {
+        title: "Javascript Developer",
+        company_name: "IT4Best",
+        icon: programmer,
+        iconBg: "#E6DEDD",
+        date: "05/2023 - present",
+        points: [
+            "Developing and enhancing features in web applications using technologies like: ",
+            "JavaScript, React, Angular, PHP, Laravel, API, HTML, and CSS.",
+            "Ensuring continuous maintenance of existing applications, bug fixing, and performance improvements.",
+            "Integrating with external APIs and developing internal APIs to facilitate communication between the frontend and backend.",
+            "Implementing backend functionalities using PHP and the Laravel framework.",
+            "Collaborating with cross-functional teams to ensure smooth project delivery.",
+            "Participating in code reviews and providing constructive feedback to improve the codebase.",
+            "Utilizing technologies and techniques to optimize page loading and application response times.",
+            "Staying updated with the latest technologies and industry trends."
+        ], 
     },
 ];
 
